@@ -1,6 +1,8 @@
 Zend Framework 1 for Composer
 =============================
 
+## THIS IS A FORK USING APCU INSTEAD OF APC (Apc.php file update)
+
 This is a mirror of the official Zend Framework 1 subversion repository, with some modifications for improved [Composer](http://getcomposer.org/) integration. This package can also be found at [Packagist](http://packagist.org/packages/bombayworks/zendframework1).
 
 ## Why?
